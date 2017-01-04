@@ -1,1 +1,1 @@
-My Personal CMS project in PHP
+My Personal Web project in PHP
